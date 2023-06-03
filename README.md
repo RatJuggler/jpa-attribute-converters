@@ -10,7 +10,7 @@ Useful links:
 
 Pros
 
-- Easy to understand.
+- Easy to understand, no edge case side effects.
 - Simple to implement and maintain.
 - JPA compliant.
 
