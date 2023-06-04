@@ -10,8 +10,10 @@ Useful links:
 
 Pros
 
+- Can be targeted to specific entity attributes.
 - Easy to understand, no edge case side effects.
 - Simple to implement and maintain.
+- Doesn't leave the presistence session / entity in a dirty state.
 - JPA compliant.
 
 Cons
